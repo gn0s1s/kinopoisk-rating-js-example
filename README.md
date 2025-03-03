@@ -1,0 +1,1 @@
+# kinopoisk-rating-js-example
